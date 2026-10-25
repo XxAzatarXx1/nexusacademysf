@@ -1,0 +1,8 @@
+fieldset label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+fieldset {
+    margin-top: 40px;
+}
